@@ -1,0 +1,14 @@
+/.idea/
+/cmake-build-debug/
+/cmake-build-debug-coverage/
+/correct/
+/starter_files/
+/starter_files/iterator_range.h
+/starter_files/main.cpp
+/starter_files/parse.cpp
+/starter_files/parse.h
+/starter_files/search_server.cpp
+/starter_files/search_server.h
+/course_project_first_part.zip
+/CourseraRedBelt.zip
+/second_part.zip
